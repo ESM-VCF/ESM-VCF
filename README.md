@@ -2,6 +2,10 @@
 
 Meta Project for the Virtual Field Campaign Task of ESM
 
+## Use cases
+
+There's a few [user stories](stories/esm-vfc-stories) that we use to understand what to build.
+
 ## Structure of the Github org
 
 - Data catalogs are in: <https://github.com/ESM-VFC/esm-vfc-catalogs>
